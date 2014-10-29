@@ -2,7 +2,7 @@ iMobile_ThemeMap
 
 专题地图
 
-	该应用基于SuperMap iMobile 7C构建，展示了如何动态制作多种专题图。包括标签专题图、分段设色专题图、统计专题图等。
+	该应用基于SuperMap iMobile 7C for Android 构建，展示了如何动态制作多种专题图。包括标签专题图、分段设色专题图、统计专题图等。
 	
 操作说明：
 
